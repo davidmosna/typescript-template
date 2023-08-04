@@ -1,0 +1,8 @@
+{
+  "transform": {
+    "^.+\\.ts$": "ts-jest"
+  },
+  "testEnvironment": "node",
+  "verbose": true,
+  "passWithNoTests": true
+}
